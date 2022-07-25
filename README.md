@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AtharvV2001
 - 👀 I’m interested in ... Progarmming and Debugging
-- 🌱 I’m currently learning ... BCA
+- 🌱 I’m currently learning ... MCA
 - 📫 How to reach me ... mail me on atharvvikhe@gmail.com
 
 <!---
